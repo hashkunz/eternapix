@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "556844508676",
+    "project_id": "eternapixs",
+    "storage_bucket": "eternapixs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556844508676:android:76bad64ad336ba0fa43751",
+        "android_client_info": {
+          "package_name": "com.example.eternapix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556844508676-7mnokfdicgks1d6gk5h964porq8t2qvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDNxaiMK7DZIYgQU3fam_6ZGgDUHKl3e4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556844508676-7mnokfdicgks1d6gk5h964porq8t2qvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
